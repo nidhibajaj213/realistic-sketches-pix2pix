@@ -16,15 +16,7 @@ This project uses a **Pix2Pix GAN** implemented in TensorFlow to **translate arc
 
 ---
 
-## 🖼️ Sample Results
 
-| Sketch (Input) | Generated (Output) | Real (Target) |
-|---|---|---|
-| ![sketch](sample_sketch.png) | ![generated](sample_generated.png) | ![real](sample_real.png) |
-
-> *(Replace these images with small `.png` exports from your notebook.)*
-
----
 
 ## 📂 Dataset
 
